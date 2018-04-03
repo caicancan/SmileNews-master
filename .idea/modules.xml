@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\google\SmileNews-master\SmileNews-master\SmileNews.iml" filepath="D:\google\SmileNews-master\SmileNews-master\SmileNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmileNews-master.iml" filepath="$PROJECT_DIR$/SmileNews-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\google\SmileNews-master\SmileNews-master\app\app.iml" filepath="D:\google\SmileNews-master\SmileNews-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
